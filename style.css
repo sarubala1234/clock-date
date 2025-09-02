@@ -7,6 +7,11 @@ body{
    background:linear-gradient( right,);
    font-family: Arial, Helvetica, sans-serif;
    color: cyan;
+    display:block;
+    text-align: center;
+   
+    
+   
 }
    
    .clock-container {
@@ -15,6 +20,7 @@ body{
   border-radius: 15px;
   background: rgba(0,0,0,0.4);
   box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  width: 50%;
 }
 
 #time {
@@ -28,6 +34,11 @@ body{
 }
 
 
-
+h1{
+    text-align: center;
+    margin-top: 10%;
+    color: black;
+    display:inline-block;
+}
 
 
